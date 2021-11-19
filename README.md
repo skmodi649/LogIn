@@ -1,2 +1,1 @@
-# LogIn
-Sample login app
+# skmodi649.LogIn
